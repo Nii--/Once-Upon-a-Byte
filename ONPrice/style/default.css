@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    color: #fff;
+    background-color: #fff;
+}
+
+#head{
+    height: 250px;
+    width: 100%;
+    background-color: #7DC241;
+}
+
+#logo{
+    height: 175px;
+    width: 175px;
+    background-color: #7DC241;
+    margin: 28px 0px 0px 20px;
+}
+
+.centered{
+    margin: auto;
+}
+
+td{
+    border-style: solid;
+    border-width: 1px;
+}
+
+.iblock{
+    width: 210px;
+    height: 200px;
+    background-color: #FDEE41;
+}
+
+.iblocka{
+    width: 210px;
+    height: 200px;
+    background-color: #2DC3EC;
+}
+
+.block {
+    width: 210px;
+    height: 200px;
+    float: left;
+}
+
+.blocka {
+    width: 210px;
+    height: 200px;
+    float: left;
+}
