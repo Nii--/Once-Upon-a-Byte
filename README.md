@@ -6,7 +6,7 @@ This app will give the user to generally know the suggested retail prices.
 Thus prevents the user to buy overpriced goods.
 
 ##Screenshot
-![Screenshot 1](screenshot/ss1.png)
+![Screenshot 1](./Once-Upon-a-Byte/screenshot/ss1.png)
 
 ##Tech and Data used
 -PHP
