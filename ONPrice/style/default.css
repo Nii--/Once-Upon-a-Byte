@@ -9,14 +9,19 @@
 #head{
     height: 250px;
     width: 100%;
-    background-color: #7DC241;
+    background-color: #99e052;
 }
 
 #logo{
     height: 175px;
     width: 175px;
-    background-color: #7DC241;
+    background-color: inherit;
     margin: 28px 0px 0px 20px;
+}
+
+#searchform{
+    background-color: #aaf163;
+    color: #000;
 }
 
 .centered{
