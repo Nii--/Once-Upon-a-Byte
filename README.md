@@ -13,7 +13,7 @@ Thus prevents the user to buy overpriced goods.
 *MySQL
 
 ##Credits
-*Ezekeil Ponciano - Backend Programmer
-*Gerona Nico Paolo - Illustrator & Lead Programmer
-*Eunice Anne Pascua - Designer
-*Krystal Mae Degala - Front-end Programming
+*Ezekeil Ponciano - Backend Programmer*
+*Gerona Nico Paolo - Illustrator & Lead Programmer*
+*Eunice Anne Pascua - Designer*
+*Krystal Mae Degala - Front-end Programming*
